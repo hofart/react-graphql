@@ -8,8 +8,3 @@ export type Character = {
 export type CharactersData = {
   results: Character[];
 };
-
-export type CharactersVars = {
-  page: number;
-  search?: string
-};

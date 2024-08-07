@@ -1,11 +1,8 @@
-import type { Character } from "../../domain/types";
+import { useCharacters } from "../hooks/useCharacters";
 
-type CharacterListProps = {
-  loading: boolean,
-  characters: Character[]
-}
+const CharacterList = () => {
+  const { characters, loading } = useCharacters();
 
-const CharacterList = ({ characters, loading }: CharacterListProps) => {
   if (loading) return <p>Loading...</p>;
 
   return (
