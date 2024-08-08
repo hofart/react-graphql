@@ -25,7 +25,6 @@ To install and run this project, follow these steps:
 To use this project, follow these steps:
 
 1. Open your browser and navigate to `http://localhost:3000`.
-2. ...
 
 ## Contributing
 
