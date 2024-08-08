@@ -8,8 +8,6 @@ This project is a React-GraphQL application that aims to...
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -25,15 +23,6 @@ To install and run this project, follow these steps:
 To use this project, follow these steps:
 
 1. Open your browser and navigate to `http://localhost:3000`.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
 
 ## License
 
