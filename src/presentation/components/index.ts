@@ -1,4 +1,5 @@
 import CharacterCard from "./CharacterCard"
 import Input from "./Input"
+import Button from "./Button"
 
-export { CharacterCard, Input }
+export { CharacterCard, Input, Button }
