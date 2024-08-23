@@ -13,7 +13,7 @@ const DetailsCharactersPage = () => {
 
       {!characters.length ? <p>You dont have favorites characters</p> : null}
 
-      {characters && characters.map((favorite) => (
+      {characters?.map((favorite) => (
         <ul key={favorite.id}>
           <li>
             <div>{favorite.name}</div>
